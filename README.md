@@ -18,12 +18,15 @@ This is a simple user management system written in Python. It allows you to add 
 
 2. Run the program:
 
+   ```bash
     python user_management.py
 
 
 3. Follow the on-screen instructions to use the various features.
 
+##
 Example
+
 Upon running the program, you will see the following menu:
 
 1-Add User
