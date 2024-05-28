@@ -18,31 +18,33 @@ This is a simple user management system written in Python. It allows you to add 
 
 2. Run the program:
 
-   ```bash
+   ```python
     python user_management.py
 
+##
 
 3. Follow the on-screen instructions to use the various features.
 
-##
 Example
 
 Upon running the program, you will see the following menu:
 
-1-Add User
-2-Show User
-3-Select User
-4-Mix User
+1. Add User
+2. Show Users
+3. Select Users
+4. Mix Users
 
 Choose an option by entering the corresponding number. For example, to add a new user, press 1, then follow the prompt to enter the user's name.
 
+###
 Requirements
 Python 3.x
 Installation
 Ensure you have Python installed on your system. You can download it from python.org.
 
+####
 Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
-
+####
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
